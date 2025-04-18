@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 2. Run the application:
 ```bash
-python bird_tracker.py
+python bird_detection.py
 ```
 
 3. The application will:
